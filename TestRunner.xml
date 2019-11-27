@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="Gojek Test Suite" verbose="2" parallel="classes" thread-count="5">
+	<test name="Gojek Tests" group-by-instances="false" preserve-order="true">
+		<classes>
+			<class name="gojektest.testgojek" />
+		</classes>
+	</test>
+</suite>
